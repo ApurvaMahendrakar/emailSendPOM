@@ -2,20 +2,20 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="PageObjectModel.EmailSendingTest" duration-ms="165941" started-at="2022-05-17T11:08:36 IST" finished-at="2022-05-17T11:11:22 IST">
+  <suite name="PageObjectModel.EmailSendingTest" duration-ms="178711" started-at="2022-05-17T11:39:55 IST" finished-at="2022-05-17T11:42:54 IST">
     <groups>
     </groups>
-    <test name="Command line test" duration-ms="165941" started-at="2022-05-17T11:08:36 IST" finished-at="2022-05-17T11:11:22 IST">
+    <test name="Command line test" duration-ms="178711" started-at="2022-05-17T11:39:55 IST" finished-at="2022-05-17T11:42:54 IST">
       <class name="PageObjectModel.EmailSendingTest">
-        <test-method status="PASS" signature="browserLaunch()[pri:0, instance:PageObjectModel.EmailSendingTest@1f28c152]" name="browserLaunch" is-config="true" duration-ms="34438" started-at="2022-05-17T11:08:36 IST" finished-at="2022-05-17T11:09:10 IST">
+        <test-method status="PASS" signature="browserLaunch()[pri:0, instance:PageObjectModel.EmailSendingTest@1f28c152]" name="browserLaunch" is-config="true" duration-ms="24460" started-at="2022-05-17T11:39:55 IST" finished-at="2022-05-17T11:40:20 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- browserLaunch -->
-        <test-method status="PASS" signature="emailSend()[pri:0, instance:PageObjectModel.EmailSendingTest@1f28c152]" name="emailSend" duration-ms="128180" started-at="2022-05-17T11:09:11 IST" finished-at="2022-05-17T11:11:19 IST">
+        <test-method status="PASS" signature="emailSend()[pri:0, instance:PageObjectModel.EmailSendingTest@1f28c152]" name="emailSend" duration-ms="152398" started-at="2022-05-17T11:40:20 IST" finished-at="2022-05-17T11:42:52 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- emailSend -->
-        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:PageObjectModel.EmailSendingTest@1f28c152]" name="closeBrowser" is-config="true" duration-ms="2285" started-at="2022-05-17T11:11:19 IST" finished-at="2022-05-17T11:11:22 IST">
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:PageObjectModel.EmailSendingTest@1f28c152]" name="closeBrowser" is-config="true" duration-ms="1634" started-at="2022-05-17T11:42:53 IST" finished-at="2022-05-17T11:42:54 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeBrowser -->

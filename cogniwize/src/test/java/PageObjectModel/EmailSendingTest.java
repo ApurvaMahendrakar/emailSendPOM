@@ -35,7 +35,7 @@ public class EmailSendingTest {
     	EmailSendPage emailSend = new EmailSendPage(driver);
     	driver.get("https://accounts.google.com/");
     	 
-    	 driver.manage().timeouts().implicitlyWait(50,TimeUnit.SECONDS);
+    	 driver.manage().timeouts().implicitlyWait(2,TimeUnit.MINUTES);
     	emailSend.passEmail("apurva.mahendrakar@cogniwize.com");
     	emailSend.clickOnNext1();
     	Thread.sleep(5000);
